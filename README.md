@@ -3,19 +3,15 @@
 ![Netlify Status](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Netlify Status](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Netlify Status](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Netlify Status](https://img.shields.io/badge/Spotify-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Netlify Status](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)
 ![Netlify Status](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Netlify Status](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Netlify Status]()
 
 
 https://spotify-clone-kg.vercel.app
 
 ![Netlify Status](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-
-
-https://twitter-kg.netlify.app
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2531a3fd-8833-47e6-82cc-32ee8d2d894b/deploy-status)](https://app.netlify.com/sites/twitter-kg/deploys)
 
 
 ## Recommended IDE Setup
