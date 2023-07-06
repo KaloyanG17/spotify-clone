@@ -6,7 +6,7 @@
 ![Netlify Status](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)
 ![Netlify Status](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Netlify Status](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Netlify Status]()
+![Netlify Status](https://img.shields.io/badge/Pinia-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 
 https://spotify-clone-kg.vercel.app
