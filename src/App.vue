@@ -118,6 +118,7 @@ onMounted(() => {
 })
 
 let openMenu = ref(false)
+
 </script>
 
 <style scoped>
